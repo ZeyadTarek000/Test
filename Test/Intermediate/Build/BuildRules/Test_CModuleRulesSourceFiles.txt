@@ -1,0 +1,3 @@
+C:\Users\Zeyad\Desktop\Test\Source\Test_C\Test_C.Build.cs
+C:\Users\Zeyad\Desktop\Test\Source\Test_C.Target.cs
+C:\Users\Zeyad\Desktop\Test\Source\Test_CEditor.Target.cs

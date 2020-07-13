@@ -1,0 +1,25 @@
+﻿  Creating makefile for hot reloading Test_CEditor (game project files are newer)
+  Compiling game modules for hot reload
+  Using Visual Studio 2015 14.0 toolchain (C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+  Parsing headers for Test_CEditor
+    Running UnrealHeaderTool "C:\Users\Zeyad\Desktop\Test\Test_C.uproject" "C:\Users\Zeyad\Desktop\Test\Intermediate\Build\Win64\Test_CEditor\Development\Test_CEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Test_CEditor in 15.8874876 seconds
+  Building 14 actions with 4 processes...
+    [1/14] PCLaunch.rc
+    [2/14] SharedPCH.Engine.cpp
+    [3/14] Test_C.cpp
+    [4/14] Test_CGameMode.cpp
+    [5/14] MainChar_GameMode.gen.cpp
+    [6/14] Test_CCharacter.cpp
+    [7/14] Test_C.init.gen.cpp
+    [8/14] Test_CCharacter.gen.cpp
+    [9/14] Test_CGameMode.gen.cpp
+    [10/14] MainChar_GameMode.cpp
+    [11/14] Main_Char.cpp
+    [12/14] Main_Char.gen.cpp
+    [13/14] UE4Editor-Test_C-4485.lib
+       Creating library C:\Users\Zeyad\Desktop\Test\Intermediate\Build\Win64\UE4Editor\Development\Test_C\UE4Editor-Test_C-4485.lib and object C:\Users\Zeyad\Desktop\Test\Intermediate\Build\Win64\UE4Editor\Development\Test_C\UE4Editor-Test_C-4485.exp
+    [14/14] UE4Editor-Test_C-4485.dll
+       Creating library C:\Users\Zeyad\Desktop\Test\Intermediate\Build\Win64\UE4Editor\Development\Test_C\UE4Editor-Test_C-4485.suppressed.lib and object C:\Users\Zeyad\Desktop\Test\Intermediate\Build\Win64\UE4Editor\Development\Test_C\UE4Editor-Test_C-4485.suppressed.exp
+  Deploying Test_CEditor Win64 Development...
+  Total build time: 129.92 seconds (Parallel executor: 84.08 seconds)

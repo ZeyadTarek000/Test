@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Test_C-1423.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\Test_CEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\MainChar_GameMode.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Main_Char.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Test_C.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Test_CCharacter.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Test_CGameMode.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\MainChar_GameMode.gen.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Main_Char.gen.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Test_C.init.gen.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Test_CCharacter.gen.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\Test_CGameMode.gen.cpp.obj"
+"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\PCLaunch.rc.res"
+/OUT:"C:\Users\Zeyad\Desktop\Test_C - Copy\Intermediate\Build\Win64\UE4Editor\Development\Test_C\UE4Editor-Test_C-1423.lib"
